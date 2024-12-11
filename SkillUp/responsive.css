@@ -1,0 +1,54 @@
+@media (max-width: 767px) {
+  .container-fluid .row {
+    margin: 0;
+  }
+  .container .row .mycols {
+    margin-bottom: 15%;
+  }
+  /*  */
+  .container-fluid .row .col h1 span {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .container-fluid .row .col h2 {
+    font-size: 30px;
+    margin-bottom: 8%;
+  }
+  .card {
+    margin-bottom: 15%;
+  }
+  .onHoverContainer {
+    text-align: center;
+  }
+  .onHoverContainer .footer-hover {
+    display: flex;
+    flex-direction: column;
+  }
+  .para-dis {
+    margin-bottom: 10%;
+  }
+  .ratings {
+    margin-bottom: 5%;
+  }
+  /*  */
+  .join-course h1 {
+    font-size: 30px;
+  }
+  .join-course p {
+    font-size: 14px;
+    letter-spacing: 0px;
+    margin: 8% 0;
+  }
+  .join-course a button span {
+    padding: 18px 20px;
+  }
+  .scrollTop-style {
+    display: none;
+  }
+  .BurgerIcon span i {
+    right: 5%;
+  }
+  .BurgerIcon div div {
+    font-size: 14px;
+  }
+}
